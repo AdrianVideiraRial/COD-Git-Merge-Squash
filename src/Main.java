@@ -6,5 +6,8 @@ public class Main {
         //Lider1
         //Lider2
         //Lider3
+        //Colaborador1
+        //Colaborador2
+        //Colaborador3
     }
 }
